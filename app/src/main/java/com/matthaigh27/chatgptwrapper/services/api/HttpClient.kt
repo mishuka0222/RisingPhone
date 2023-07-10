@@ -113,5 +113,4 @@ class HttpClient {
             TRAIN_CONTACTS,
             POST
         )
-    }
 }
